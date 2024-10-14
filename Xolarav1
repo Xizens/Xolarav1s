@@ -2,7 +2,7 @@
  
 getgenv().Aimbot = {
     Status = true,
-    Keybind  = 'C',
+    Keybind  = 'q',
     Hitpart = 'HumanoidRootPart',
     ['Prediction'] = {
         X = 0.165,
